@@ -11,8 +11,7 @@
 - ⚡ Fun fact **"🚀 I'm a Flutter enthusiast, and I love creating beautiful and performant mobile apps using Dart and Flutter! 💙"**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/safwan-pulisseri-6a6071281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/safwan-pulisseri-6a6071281/" height="30" width="40" /></a>
+<p align="left"><a href="https://www.linkedin.com/in/safwan-pulisseri-6a6071281/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safwan-pulisseri-6a6071281" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/safwanpulisseri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/safwanpulisseri/" height="30" width="40" /></a>
 </p>
 

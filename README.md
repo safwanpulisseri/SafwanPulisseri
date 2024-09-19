@@ -26,25 +26,34 @@
 <table align="center">
   <tr>
    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
-      <br>Linkedin
+        <a href="https://www.linkedin.com/in/safwan-pulisseri-6a6071281/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn icon" width="45" height="45" />
+        </a>
+      <br>LinkedIn
     </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="SQ Lite" />
+    <td align="center" width="100">
+        <a href="https://x.com/SafwanPulisseri" target="_blank">
+          <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="X (Twitter) icon" />
+        </a>
       <br>X
     </td>
     <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="icon" width="45" height="45" />
-      <br>Leetcode
+        <a href="https://leetcode.com/u/safwanpulisseri/" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode icon" width="45" height="45" />
+        </a>
+      <br>LeetCode
     </td>
-       <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="icon" width="45" height="45" />
+    <td align="center" width="100">
+        <a href="https://medium.com/@safwanpulisseri123" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium icon" width="45" height="45" />
+        </a>
       <br>Medium
     </td>
   </tr>
 </table>
 <br><br>
 </div>
+
 
 
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
